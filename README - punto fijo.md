@@ -1,0 +1,17 @@
+# Método de punto fijo
+
+## Descripción
+
+La idea principal es encontrar las raices de
+una ecuación al proponerlas como puntos
+fijos de una formulación alternativa. 
+
+Se resuelve para una x, la cual nos dará una función g(x), y empezamos a iterar sustituyendo x=0.
+Una vez hecho esto, el valor que nos haya salido lo volvemos a sustituir en la función y repetimos el proceso hasta que el valor cambie en
+lo más mínimo.
+
+Cuando ya no cambie, ese valor lo metemos en la fórmula original y nos dará el valor de nuetra raíz.
+
+### Referencia
+
+Dr. Mario Marín Hernández 
