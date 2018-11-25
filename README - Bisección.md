@@ -9,7 +9,7 @@ Se debe de agarrar un intervalo de la función el cual contenga la raíz y divid
 el valor más cercano posible a la raíz.
 
 ### Referencia
-Miguel Ángel Palomera
+Miguel Ángel Palomera Pérez
 
 Universidad Autónoma Metropolitana.
 
