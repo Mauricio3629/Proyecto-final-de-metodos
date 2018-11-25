@@ -9,7 +9,9 @@ Se debe de agarrar un intervalo de la función el cual contenga la raíz y divid
 el valor más cercano posible a la raíz.
 
 ### Referencia
-Miguel Ángel Palomera y la Universidad Autónoma Metropolitana.
+Miguel Ángel Palomera
+
+Universidad Autónoma Metropolitana.
 
 #### Links:
 http://test.cua.uam.mx/MN/Methods/Raices/Biseccion/Biseccion.php
