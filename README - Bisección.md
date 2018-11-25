@@ -10,3 +10,6 @@ el valor más cercano posible a la raíz.
 
 ### Referencia
 Miguel Ángel Palomera y la Universidad Autónoma Metropolitana.
+
+#### Links:
+http://test.cua.uam.mx/MN/Methods/Raices/Biseccion/Biseccion.php
