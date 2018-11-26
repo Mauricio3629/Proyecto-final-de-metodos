@@ -5,7 +5,3 @@
 Codigos para hacer operaciones basicas entre matrices: suma, resta y multiplicacion. 
 
 Tambien con operandos para obterner la determinante, transpuesta, adyacente e inversa.
-
-### Referencia
-
-Miguel Ángel Palomera Pérez
